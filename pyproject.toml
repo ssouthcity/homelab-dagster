@@ -11,6 +11,7 @@ dependencies = [
     "textblob",
     "tweepy",
     "wordcloud",
+    "dagster-duckdb>=0.28.1",
 ]
 
 [project.optional-dependencies]
